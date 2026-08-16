@@ -134,7 +134,7 @@ Based on the analysis, the business can:
 
 ## 🖼️ Dashboard Screenshot
 
-![Sales & Customer Insights Dashboard](Dashboard/)
+![Sales & Customer Insights Dashboard](Dashboard/Dashboard.png)
 
 ---
 
