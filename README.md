@@ -134,7 +134,7 @@ Based on the analysis, the business can:
 
 ## 🖼️ Dashboard Screenshot
 
-![Retail Sales Analytics Dashboard](dashboard.png)
+![Retail Sales Analytics Dashboard](Dashboard.png)
 
 ---
 
