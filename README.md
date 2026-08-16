@@ -159,4 +159,3 @@ sales-customer-insights/
 │   └── sales_customer_analysis.ipynb
 │
 └── README.md
-should i copy every thing in this
