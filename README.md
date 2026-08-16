@@ -55,21 +55,6 @@ The following data preparation steps were performed:
 
 ---
 
-## 🗄️ SQL Analysis
-
-SQL was used to perform business-oriented analysis such as:
-
-- Total sales
-- Sales by category
-- Sales by region
-- Top-performing products
-- Customer type analysis
-- Payment method analysis
-- Monthly sales trends
-- Quantity sold
-- Average sales performance
-
----
 
 ## 📊 Power BI Dashboard
 
@@ -91,22 +76,6 @@ An interactive Power BI dashboard was created to visualize sales and customer in
 
 ---
 
-## 🔍 Key Insights
-
-The analysis was used to identify:
-
-- Top-performing products
-- Best-performing categories
-- Highest-performing regions
-- Customer type contribution to sales
-- Popular payment methods
-- Sales trends over time
-- Areas with potential for improvement
-
-> Actual numerical insights and findings can be added here based on the final dashboard results.
-
----
-
 ## 💡 Business Recommendations
 
 Based on the analysis, the business can:
@@ -125,9 +94,7 @@ Based on the analysis, the business can:
 | Tool | Purpose |
 |---|---|
 | Excel | Data preparation and analysis |
-| SQL | Business data analysis |
 | Power BI | Dashboard and visualization |
-| Python | Exploratory analysis |
 | GitHub | Project documentation and version control |
 
 ---
@@ -146,16 +113,10 @@ sales-customer-insights/
 ├── Dataset/
 │   └── Data_Set.csv
 │
-├── SQL/
-│   └── sales_customer_analysis.sql
-│
 ├── PowerBI/
 │   └── Sales_Customer_Insights.pbix
 │
 ├── Dashboard/
 │   └── dashboard.png
-│
-├── Python/
-│   └── sales_customer_analysis.ipynb
 │
 └── README.md
